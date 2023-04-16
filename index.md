@@ -3,16 +3,13 @@ layout: default
 title: LightSpeed Contact
 ---
 
-## About
-LightSpeed is a lightweight Jekyll theme designed to be privacy-friendly (~~no~~ _very little_ JavaScript), fast, and
-excellent at delivering content.
+## ABOUT
+My name is PRINCE EKEMINI DARLINGTON, i'm an experienced PHP developer with extensive server-side web development knowledge gathered across 7 years in the industry. Well-versed in Front-End development. Led company-wide integration with third-party APIs. Seeking to broaden knowledge of databases and deliver the highest standards of web applications.
+
 
 ## About, Further
-This second section demonstrates spacing. CSS is kept to a minimum with minor styling
-for site colours and spacing. prism.js is used for code styling.    
+With a degree in mathematics and computer science, hands on experience on machine learning projects, mobile application development, test driven development, continious integration, microservices and web API development, i would say that i'm open to any role that matches my skillset    
 <br>
-Here's a new paragraph for you.  
-
 ## Features
 - Pagination
     - Posts
