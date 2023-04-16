@@ -11,6 +11,10 @@ My name is PRINCE EKEMINI DARLINGTON, i'm an experienced BACKEND developer with 
 With a degree in mathematics and computer science, hands on experience on machine learning projects, mobile application development, test driven development, continious integration, microservices and web API development, i would say that i'm open to any role that matches my skillset    
 <br>
 
+## Education
+- BS.c Mathematics and computer science
+    - class of 2019
+
 ## Work Experience 
  - CTO at Qshop.ng (2020-2022)
     -Launched an internal order management system utilizing primarily PHP and MySQL to introduce a more scalable and reliable solution that allowed 100% deadline compliance.
