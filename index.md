@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LightSpeed Contact
+title: PRINCE DARLINGTON 
 ---
 
 ## ABOUT
@@ -20,11 +20,11 @@ With a degree in mathematics and computer science, hands on experience on machin
     -Launched an internal order management system utilizing primarily PHP and MySQL to introduce a more scalable and reliable solution that allowed 100% deadline compliance.
     -Performed technical analysis to select efficient adjustments based on company specifics.
     -Integrated payments systems to enable customers have payment option to choose from
-
+<br>
 - SENIOR SOFTWARE ENGINER at TATSPACE.com() (2019-2020)
     -Worked on blockchain Api for the development of Tatcoin Token 
     -Supervised in building the p2p market place  for trading cryptocurrency
-
+<br>
 - CTO at LATCOMS(GERMANY) (2018-2019)
     -Collaborate with other development teams
     -Worked on Coinbase API in developing the in house crypto exchange products
@@ -32,6 +32,10 @@ With a degree in mathematics and computer science, hands on experience on machin
     -worked on fraud detection system using python and integrated it on the exchange platform
     
 
+## Personal Projects
+-Medisure (A social video calling health app for doctors and patients)
+    - search for "medisure" and "medisure doctor" on play store
+-DMPOS
 
 ## Skills
 -  BACKEND with PHP
