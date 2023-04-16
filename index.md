@@ -33,12 +33,16 @@ With a degree in mathematics and computer science, hands on experience on machin
     
 
 ## Personal Projects
--Medisure (A social video calling health app for doctors and patients) <b>Kotlin</b>
-    - search for "medisure" and "medisure doctor" on play store
--DMPS (A decentralized mobile app pos system based on blockchain) <b>Kotlin</b>
--Codefii (An MVC php framework just like laravel) <b>Php</b>
--PacksDB (A key-value pair index database written on python)<b>Python</b>
--AIAD (Artificial Intelligence for Anomaley Detection) <b>Python</b>
+ -MEDISURE 
+    -A social video calling health app for doctors and patients <b>Kotlin</b>
+    -search for "medisure" and "medisure doctor" on play store
+    -DMPS (A decentralized mobile app pos system based on blockchain) <b>Kotlin</b>
+-Codefii 
+    -(An MVC php framework just like laravel) <b>Php</b>
+-PacksDB 
+    -(A key-value pair index database written on python)<b>Python</b>
+-AIAD 
+    -(Artificial Intelligence for Anomaley Detection) <b>Python</b>
 
 ## Skills
 -  BACKEND with PHP
