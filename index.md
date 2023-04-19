@@ -67,4 +67,4 @@ With a degree in mathematics and computer science, hands on experience on machin
 - AWS, Heroku
 
 ## Contact
-Email me, [ekeminyd@gmail.com](mailto:ekeminyd@gmail.com).
+Email me, [prince.ekeminy@gmail.com](mailto:prince.ekeminy@gmail.com).
