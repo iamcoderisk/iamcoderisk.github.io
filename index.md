@@ -46,6 +46,8 @@ With a degree in mathematics and computer science, hands on experience on machin
 
 -   AIAD 
      - (Artificial Intelligence for Anomaley Detection) 
+- HOTELU
+     - An inventory managment system for hotels
 
 ## Skills
 -  BACKEND with PHP
@@ -61,10 +63,14 @@ With a degree in mathematics and computer science, hands on experience on machin
     - Express
     - AdonisJs
     - PHPUnit
+-  FRONTEND
+    - VueJS
+    - Javascript
 - MySQl
 - PostgreSql
+- A Good knowledge of background processing with RabbitMq
 - Circle CI
-- AWS, Heroku
+- AWS, Heroku, Docker
 
 ## Contact
 Email me, [prince.ekeminy@gmail.com](mailto:prince.ekeminy@gmail.com).
